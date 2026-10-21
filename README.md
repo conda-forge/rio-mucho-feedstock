@@ -1,6 +1,9 @@
 About rio-mucho-feedstock
 =========================
 
+> [!WARNING]
+> **rio-mucho is no longer maintained upstream.** The last upstream release of [mapbox/rio-mucho](https://github.com/mapbox/rio-mucho) was 1.0.0 on 2018-07-19. The repository has had no code changes since 2021. This feedstock stays available for existing users, but no new versions are expected.
+
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rio-mucho-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mapbox/rio-mucho
